@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Nucleo_shield_power\Nucleo_shield_power.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=..\Nucleo_shield_power\Nucleo_shield_power.PrjPcb
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Nucleo_shield_strato\Nucleo_shield_strato.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=..\Nucleo_shield_strato\Nucleo_shield_strato.PrjPcb
